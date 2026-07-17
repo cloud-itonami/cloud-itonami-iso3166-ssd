@@ -1,0 +1,13 @@
+;; data/culture-tx.edn — DataScript tx-data derived from src/culture/facts.cljc
+;; `culture.facts/catalog` (ADR-2607171400 addendum 2, Wave 1 country-level).
+;; Same shape across every cloud-itonami-iso3166-* sibling. Do not hand-edit;
+;; regenerate from the catalog.
+
+[
+#:culture{:id "ssd.dish.kisra", :name "Kisra", :country "SSD", :kind :dish, :summary "Sorghum pancake, listed as a national dish of South Sudan.", :url "https://en.wikipedia.org/wiki/South_Sudanese_cuisine", :url-provenance :wikipedia-en, :retrieved-at "2026-07-17"}
+#:culture{:id "ssd.dish.kajaik", :name "Kajaik", :country "SSD", :kind :dish, :summary "Fish stew, a South Sudanese dish.", :url "https://en.wikipedia.org/wiki/South_Sudanese_cuisine", :url-provenance :wikipedia-en, :retrieved-at "2026-07-17"}
+#:culture{:id "ssd.dish.combo", :name "Combo", :country "SSD", :kind :dish, :summary "South Sudanese dish made from spinach, peanut butter and tomatoes.", :url "https://en.wikipedia.org/wiki/South_Sudanese_cuisine", :url-provenance :wikipedia-en, :retrieved-at "2026-07-17"}
+#:culture{:id "ssd.beverage.karkade", :name "Karkade", :country "SSD", :kind :beverage, :summary "Hibiscus tea, listed among South Sudanese beverages.", :url "https://en.wikipedia.org/wiki/South_Sudanese_cuisine", :url-provenance :wikipedia-en, :retrieved-at "2026-07-17"}
+#:culture{:id "ssd.heritage.boma-national-park", :name "Boma National Park", :country "SSD", :kind :heritage, :summary "Protected area in eastern South Sudan near the Ethiopian border, established in 1977, covering 22,800 sq km of grasslands and floodplains.", :url "https://en.wikipedia.org/wiki/Boma_National_Park", :url-provenance :wikipedia-en, :retrieved-at "2026-07-17"}
+#:culture{:id "ssd.heritage.sudd", :name "Sudd", :country "SSD", :kind :heritage, :summary "Vast swamp in South Sudan formed by the White Nile's Bahr al-Jabal section, one of the world's largest wetlands, designated a Ramsar Wetland of International Importance in 2006 (57,000 sq km).", :url "https://en.wikipedia.org/wiki/Sudd", :url-provenance :wikipedia-en, :retrieved-at "2026-07-17"}
+]
