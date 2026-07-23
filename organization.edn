@@ -5,8 +5,8 @@
   :name-en "South Sudan"
   :name-local "South Sudan"
   :wikidata "Q958"
-  :head-role "PPDA / public procurement"
-  :head-role-note "institutional office title only; personal names of current office-holders are intentionally NOT stored"
+  :head-role "South Sudan Public Procurement and Disposal of Assets Authority / public procurement"
+  :head-role-note "institutional office title only; personal names of current office-holders are intentionally NOT stored. 2026-07-23 correction: this field previously read \"PPDA / public procurement\" -- this iteration read the Public Procurement and Disposal of Assets Act, 2018's own Section 5 (Interpretations) directly (via FAOLEX, https://faolex.fao.org/docs/pdf/ssd220644E.pdf) and found the Act itself never abbreviates its own authority to \"PPDA\"; that acronym is Uganda's OWN, separately-named procurement authority (Public Procurement and Disposal of Public Assets Authority) and appears to have been cross-contaminated from a sibling scaffold. See src/marketentry/facts.cljc for the full citation."
   :contact-page "https://www.wikidata.org/wiki/Q1947"
   :sourced-from "com-etzhayyim-ooyake gov-units (verbatim where present)"
   :hq {:line-en "Juba" :country "ssd" :kind "capital" :provenance "https://www.wikidata.org/wiki/Q1947" :last-verified "2026-07-10" :sourcing "authoritative"}
