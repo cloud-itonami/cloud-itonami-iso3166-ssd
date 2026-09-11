@@ -7,7 +7,7 @@ Independent public-sector market-entry compliance for South Sudan.
   2018) public procurement -- no self-service e-procurement portal
   independently found by this iteration; the Ministry of Finance and
   Planning's own domain (mof.gov.ss) failed to resolve this session
-  (see `src/marketentry/facts.cljc`)
+  (see `src/marketentry/facts.cljk`)
 - Business Registry Certificate of Incorporation, Ministry of Finance
   Tax Identification Number (TIN), and Chamber of Commerce registration
   (per the World Bank Doing Business 2020 South Sudan profile's own

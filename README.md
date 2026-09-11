@@ -37,7 +37,7 @@ models for this scaffold -- see Research notes below):
   this iteration could NOT verify (a specific Taxation Act citation, a
   representative/director exclusion provision, and an e-procurement
   self-service portal domain).
-- `src/statute/facts.cljc` -- general-law catalog: the Labour Act, 2017
+- `src/statute/facts.cljk` -- general-law catalog: the Labour Act, 2017
   (Act No. 64) and the Investment Promotion Act, 2009 -- both read as
   government-printed PRIMARY TEXT directly (via FAO's FAOLEX legal
   database). A third entry, the Companies Act, 2012, is cited at LOWER
@@ -114,7 +114,7 @@ Alongside the market-entry / statute catalogs, this repo carries a
 `com-junkawasaki/root`) — national dishes, protected products, beverages,
 crafts, festivals and heritage sites for South Sudan:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.cljk` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring `statute.facts`).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from
